@@ -1,20 +1,5 @@
 [
-  {
-    "name": "Oatmeal Chocolate Chip Cookies",
-    "ingredients": [
-      "1 cup unsalted butter, at room temperature",
-      "1 cup white sugar",
-      "1 cup brown sugar",
-      "2 eggs",
-      "2 tsp vanilla extract",
-      "3 cups all-purpose flour",
-      "1 tsp baking soda",
-      "1 tsp salt",
-      "2 cups chocolate chips"
-    ],
-    "cooking_method": "1. Preheat the oven to 190°C (375°F) and line a baking sheet with parchment paper.\n2. In a large mixing bowl, cream together the butter and sugars until light and fluffy.\n3. Beat in the eggs, one at a time, and then stir in the vanilla extract.\n4. In a separate bowl, whisk together the flour, baking soda, and salt.\n5.Using a cookie scoop or spoon, drop balls of dough onto the prepared baking sheet.\n6. Bake for 10-12 minutes, or until lightly golden brown around the edges.\n7. Allow the cookies to cool for a few minutes on the baking sheet before transferring them to a wire rack to cool completely. Enjoy!",
-    "rating": 4.2
-  },
+  
   
   {
     "name": "Tandoori Chicken",
@@ -34,6 +19,22 @@
     ],
     "cooking_method": "1. In a large bowl, mix together the cubed chicken, ginger paste, and half of the garam masala. Cover and refrigerate for at least 30 minutes, or overnight.\n2. Heat some oil in a large frying pan over medium-high heat. Add the marinated chicken and cook until browned on all sides. Remove from the pan and set aside.\n3. In the same pan, add the onion, garlic, and remaining garam masala. Cook until softened, about 5 minutes.\n4. Add the diced tomatoes, cumin, turmeric, coriander, and cayenne pepper. Bring to a simmer and cook for 10-15 minutes until the sauce has thickened.\n5. Add the cooked chicken to the sauce and simmer for another 10 minutes.\n6. Stir in the heavy cream and cook for another 5 minutes until heated through.\n7. Serve the chicken tikka masala over rice, topped with freshly chopped cilantro.",
     "rating": 4.8
+  },
+  {
+    "name": "Oatmeal Chocolate Chip Cookies",
+    "ingredients": [
+      "1 cup unsalted butter, at room temperature",
+      "1 cup white sugar",
+      "1 cup brown sugar",
+      "2 eggs",
+      "2 tsp vanilla extract",
+      "3 cups all-purpose flour",
+      "1 tsp baking soda",
+      "1 tsp salt",
+      "2 cups chocolate chips"
+    ],
+    "cooking_method": "1. Preheat the oven to 190°C (375°F) and line a baking sheet with parchment paper.\n2. In a large mixing bowl, cream together the butter and sugars until light and fluffy.\n3. Beat in the eggs, one at a time, and then stir in the vanilla extract.\n4. In a separate bowl, whisk together the flour, baking soda, and salt.\n5.Using a cookie scoop or spoon, drop balls of dough onto the prepared baking sheet.\n6. Bake for 10-12 minutes, or until lightly golden brown around the edges.\n7. Allow the cookies to cool for a few minutes on the baking sheet before transferring them to a wire rack to cool completely. Enjoy!",
+    "rating": 4.2
   },
   {
     "name": "Teriyaki Salmon",
