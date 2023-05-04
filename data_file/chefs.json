@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Hannah Kim",
+    "photo_url": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-holding-pan-pointing-finger-up-smiling-cheerfully-standing-pink-background_141793-20560.jpg?size=626&ext=jpg&uid=R52158392&ga=GA1.2.32075972.1646330939&semt=ais",
+    "id": "890123",
+    "experience": 1,
+    "likes": 2,
+    "recipes": 3,
+    "bio": "Hannah is a beginner cook who is just starting her cooking career. But she is talented enough to make is career in cooking shine to the top."
+  },
+  {
+    "name": "Fiona Chen",
+    "photo_url": "https://img.freepik.com/free-photo/chef-posing-with-knife-his-kitchen_155003-7426.jpg?size=626&ext=jpg&uid=R52158392&ga=GA1.2.32075972.1646330939&semt=ais",
+    "id": "678901",
+    "experience": 4,
+    "likes": 9,
+    "recipes": 13,
+    "bio": "Fiona is a busy mom who loves to cook for her family. She's particularly interested in healthy and kid-friendly recipes that don't require a lot of time in the kitchen."
+  },
+  
+  
+  {
+    "name": "Charlie Brown",
+    "photo_url": "https://media.istockphoto.com/id/1207299770/photo/portrait-of-senior-chef-holding-empty-dish-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=UhGosAiK-hbxeswvk0RcXtVMk8VipVWtK7sYVpuut30=",
+    "id": "345678",
+    "experience": 7,
+    "likes": 20,
+    "recipes": 30,
+    "bio": "Charlie is a food blogger who loves to share his passion for cooking with others. He's particularly interested in classic French cuisine and has a collection of vintage cookbooks."
+  },
+  {
+    "name": "Diana Lee",
+    "photo_url": "https://media.istockphoto.com/id/1168054510/photo/mature-cook-chef-holding-an-empty-plate-on-a-black-background.jpg?s=612x612&w=0&k=20&c=PinzJraZ7CCFt7O7nnSCWaQH57EQI4uZMXcBEwFzII4=",
+    "id": "456789",
+    "experience": 2,
+    "likes": 5,
+    "recipes": 7,
+    "bio": "Diana is a college student who loves to cook for her friends and roommates. She's particularly interested in healthy and budget-friendly recipes that are easy to make in a dorm room."
+  },
+  {
+    "name": "George Liu",
+    "photo_url": "https://img.freepik.com/free-photo/medium-shot-smiley-woman-cooking_23-2149631698.jpg",
+    "id": "567890",
+    "experience": 6,
+    "likes": 12,
+    "recipes": 18,
+    "bio": "Ethan is a culinary school graduate who has worked in several top restaurants. He's particularly interested in fusion cuisine and loves to experiment with different flavor combinations."
+  },
+  {
+    "name": "Rabitah Mim",
+    "photo_url": "https://media.istockphoto.com/id/1192329704/photo/portrait-of-a-smiling-woman-chef-at-restaurant.jpg?s=612x612&w=0&k=20&c=4jbxsFOkEDx75IsK3xk1-KsJp0BFTeiUPkQbpx5nXWQ=",
+    "id": "234567",
+    "experience": 3,
+    "likes": 8,
+    "recipes": 12,
+    "bio": "Bob is a busy professional who enjoys cooking as a way to unwind after work. He's particularly interested in quick and easy recipes that don't require a lot of prep time."
+  },
+  
+  {
+    "name": " Ethan Kim",
+    "photo_url": "https://images.unsplash.com/photo-1574966740637-12c84035a4f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "id": "789012",
+    "experience": 9,
+    "likes": 25,
+    "recipes": 40,
+    "bio": "George is a professional chef who has worked in several Michelin-starred restaurants. He's particularly interested in modernist cuisine and loves to experiment with molecular gastronomy techniques."
+  },
+  {
+    "name": "Alice Smith",
+    "photo_url": "https://media.istockphoto.com/id/1165683221/photo/chef-presents-something-on-a-black-background.jpg?s=612x612&w=0&k=20&c=G3_9EIg-nt-ZKh48hlvRMYWhizVU3uQuUcoNuhOVLKM=",
+    "id": "123456",
+    "experience": 5,
+    "likes": 10,
+    "recipes": 15,
+    "bio": "Alice is a passionate home cook who loves to experiment with new recipes and ingredients. She's particularly interested in vegetarian and vegan cooking."
+  }
+  
+]
