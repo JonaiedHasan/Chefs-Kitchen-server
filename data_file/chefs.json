@@ -9,6 +9,15 @@
     "bio": "Hannah is a beginner cook who is just starting her cooking career. But she is talented enough to make is career in cooking shine to the top."
   },
   {
+    "name": " Ethan Kim",
+    "photo_url": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hlZnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "id": "789012",
+    "experience": 9,
+    "likes": 25,
+    "recipes": 40,
+    "bio": "George is a professional chef who has worked in several Michelin-starred restaurants. He's particularly interested in modernist cuisine and loves to experiment with molecular gastronomy techniques."
+  },
+  {
     "name": "Fiona Chen",
     "photo_url": "https://img.freepik.com/free-photo/chef-posing-with-knife-his-kitchen_155003-7426.jpg?size=626&ext=jpg&uid=R52158392&ga=GA1.2.32075972.1646330939&semt=ais",
     "id": "678901",
@@ -56,15 +65,7 @@
     "bio": "Bob is a busy professional who enjoys cooking as a way to unwind after work. He's particularly interested in quick and easy recipes that don't require a lot of prep time."
   },
   
-  {
-    "name": " Ethan Kim",
-    "photo_url": "https://images.unsplash.com/photo-1574966740637-12c84035a4f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-    "id": "789012",
-    "experience": 9,
-    "likes": 25,
-    "recipes": 40,
-    "bio": "George is a professional chef who has worked in several Michelin-starred restaurants. He's particularly interested in modernist cuisine and loves to experiment with molecular gastronomy techniques."
-  },
+  
   {
     "name": "Alice Smith",
     "photo_url": "https://media.istockphoto.com/id/1165683221/photo/chef-presents-something-on-a-black-background.jpg?s=612x612&w=0&k=20&c=G3_9EIg-nt-ZKh48hlvRMYWhizVU3uQuUcoNuhOVLKM=",
